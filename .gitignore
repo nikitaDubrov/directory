@@ -1,0 +1,11 @@
+# Modules
+/node_modules
+
+# Bundle
+/dist
+
+# Variables
+/.env
+
+# Downloaded files
+src/Data/
